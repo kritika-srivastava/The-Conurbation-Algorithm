@@ -40,7 +40,7 @@ The growth rule image defines the formation of road network of the town. Blue co
 - Remove all the __pycache__ files from the cloned folder if present.
 - Check all the installed dependencies.
 - Install and add blender to the environment path.
-- Run the folder [GUI.py](https://github.com/kritika-srivastava/The-Conurbation-Algorithm/blob/master/src/GUI.py).
+- Run the script [GUI.py](https://github.com/kritika-srivastava/The-Conurbation-Algorithm/blob/master/src/GUI.py).
 
 
 #### *If everything worked so far, the PyQt5 window should openup and the algorithm should generate the city with the clicks.Make sure to run all the tabs in order,i.e., Roadmap Generation-> Polygon Extraction -> Building Generation ->Visualise in Blender.*
