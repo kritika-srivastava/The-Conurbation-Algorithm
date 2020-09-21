@@ -1,5 +1,5 @@
 # The Conurbation Algorithm
-This project is aimed at developing a fully functional featural city without distrupting the ecological density of the city.It is a further modification of the initial [city generation model](https://github.com/josauder/procedural_city_generation).
+This project is aimed at developing a fully functional featured city without disrupting the ecological density of the city.It is a further modification of the initial [city generation model](https://github.com/josauder/procedural_city_generation).
 
 ## [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/kritika-srivastava/Random-Password-Generator/blob/master/LICENSE)![Project Status](https://img.shields.io/badge/ProjectStatus-Completed-orange)[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 ## ![Python Badge](https://img.shields.io/badge/Python-3.5%7C3.6%7C3.7-success)![Dependency](https://img.shields.io/badge/Dependencies-NumPy%20%7C%20PyQt5%20%7C%20Blender%20%7C%20Scipy%20%7C%20Matplotlib-ff69b4)
